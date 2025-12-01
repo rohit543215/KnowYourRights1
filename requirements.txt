@@ -1,0 +1,15 @@
+fastapi==0.112.2
+uvicorn==0.30.6
+pydantic==2.9.2
+python-dotenv==1.0.1
+chromadb==0.5.4
+sentence-transformers==3.0.1
+numpy==1.26.4
+scikit-learn==1.5.1
+transformers==4.43.4
+torch
+spacy==3.7.5
+streamlit==1.37.1
+phonenumbers==8.13.43
+geopy==2.4.1
+twilio==9.3.6
